@@ -1,0 +1,12 @@
+C:\Users\alesf\source\repos\Visuales\Visuales\bin\Release\net7.0\Visuales.deps.json
+C:\Users\alesf\source\repos\Visuales\Visuales\bin\Release\net7.0\Visuales.dll
+C:\Users\alesf\source\repos\Visuales\Visuales\bin\Release\net7.0\Visuales.pdb
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.csproj.AssemblyReference.cache
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.AssemblyInfoInputs.cache
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.AssemblyInfo.cs
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.csproj.CoreCompileInputs.cache
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.dll
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\refint\Visuales.dll
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\Visuales.pdb
+C:\Users\alesf\source\repos\Visuales\Visuales\obj\Release\net7.0\ref\Visuales.dll

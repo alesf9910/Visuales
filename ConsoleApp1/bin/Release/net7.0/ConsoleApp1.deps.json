@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Visuales": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Microsoft.Xml.SgmlReader/1.8.30": {
+        "runtime": {
+          "lib/net7.0/SgmlReaderDll.dll": {
+            "assemblyVersion": "1.8.30.0",
+            "fileVersion": "1.8.30.0"
+          }
+        }
+      },
+      "Visuales/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xml.SgmlReader": "1.8.30"
+        },
+        "runtime": {
+          "Visuales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xml.SgmlReader/1.8.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aPLhDn2rg8aFo2JRpghTVi2/kU7ZEJSLUuXSHvedCyNhf15tneuhLldSfrjaCKP9MX6vp+tdpUE8wDxe2UnFjg==",
+      "path": "microsoft.xml.sgmlreader/1.8.30",
+      "hashPath": "microsoft.xml.sgmlreader.1.8.30.nupkg.sha512"
+    },
+    "Visuales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

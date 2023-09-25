@@ -1,0 +1,7 @@
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.exe
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.dll
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.deps.json
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.runtimeconfig.json
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\ConsoleApp1.pdb
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\Visuales.dll
+C:\Users\alesf\source\repos\Visuales\ConsoleApp1\bin\Release\net7.0\publish\Visuales.pdb

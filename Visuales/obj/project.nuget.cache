@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcIopSCD0rHocZgrZguD6k6ZmMit2cEEmbiXzkSXMXRJClN1EtIJtK6bjDG3GbI6aXdQueMUts1r6LHCMa+NjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alesf\\source\\repos\\Visuales\\Visuales\\Visuales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alesf\\.nuget\\packages\\microsoft.xml.sgmlreader\\1.8.30\\microsoft.xml.sgmlreader.1.8.30.nupkg.sha512"
+  ],
+  "logs": []
+}

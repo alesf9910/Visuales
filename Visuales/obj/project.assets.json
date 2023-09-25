@@ -1,0 +1,165 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Xml.SgmlReader/1.8.30": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/SgmlReaderDll.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/SgmlReaderDll.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Xml.SgmlReader/1.8.30": {
+      "sha512": "aPLhDn2rg8aFo2JRpghTVi2/kU7ZEJSLUuXSHvedCyNhf15tneuhLldSfrjaCKP9MX6vp+tdpUE8wDxe2UnFjg==",
+      "type": "package",
+      "path": "microsoft.xml.sgmlreader/1.8.30",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net46/SgmlReaderDll.dll",
+        "lib/net46/SgmlReaderDll.pdb",
+        "lib/net46/SgmlReaderDll.xml",
+        "lib/net47/SgmlReaderDll.dll",
+        "lib/net47/SgmlReaderDll.pdb",
+        "lib/net47/SgmlReaderDll.xml",
+        "lib/net48/SgmlReaderDll.dll",
+        "lib/net48/SgmlReaderDll.pdb",
+        "lib/net48/SgmlReaderDll.xml",
+        "lib/net6.0/SgmlReaderDll.dll",
+        "lib/net6.0/SgmlReaderDll.pdb",
+        "lib/net6.0/SgmlReaderDll.xml",
+        "lib/net7.0/SgmlReaderDll.dll",
+        "lib/net7.0/SgmlReaderDll.pdb",
+        "lib/net7.0/SgmlReaderDll.xml",
+        "lib/netcoreapp3.1/SgmlReaderDll.dll",
+        "lib/netcoreapp3.1/SgmlReaderDll.pdb",
+        "lib/netcoreapp3.1/SgmlReaderDll.xml",
+        "lib/netstandard2.0/SgmlReaderDll.dll",
+        "lib/netstandard2.0/SgmlReaderDll.pdb",
+        "lib/netstandard2.0/SgmlReaderDll.xml",
+        "lib/netstandard2.1/SgmlReaderDll.dll",
+        "lib/netstandard2.1/SgmlReaderDll.pdb",
+        "lib/netstandard2.1/SgmlReaderDll.xml",
+        "lib/uap/SgmlReaderDll.dll",
+        "lib/uap/SgmlReaderDll.pdb",
+        "lib/uap/SgmlReaderDll.xml",
+        "lib/uap/SgmlReaderUniversal.dll",
+        "lib/uap/SgmlReaderUniversal.pdb",
+        "lib/uap/SgmlReaderUniversal.xml",
+        "microsoft.xml.sgmlreader.1.8.30.nupkg.sha512",
+        "microsoft.xml.sgmlreader.nuspec",
+        "tools/net46/SgmlReader.exe",
+        "tools/net46/SgmlReader.pdb",
+        "tools/net46/SgmlReaderDll.dll",
+        "tools/net47/SgmlReader.exe",
+        "tools/net47/SgmlReader.pdb",
+        "tools/net47/SgmlReaderDll.dll",
+        "tools/net48/SgmlReader.exe",
+        "tools/net48/SgmlReader.pdb",
+        "tools/net48/SgmlReaderDll.dll",
+        "tools/net6.0/SgmlReader.dll",
+        "tools/net6.0/SgmlReader.exe",
+        "tools/net6.0/SgmlReader.pdb",
+        "tools/net6.0/SgmlReader.runtimeconfig.json",
+        "tools/net6.0/SgmlReaderDll.dll",
+        "tools/net7.0/SgmlReader.dll",
+        "tools/net7.0/SgmlReader.exe",
+        "tools/net7.0/SgmlReader.pdb",
+        "tools/net7.0/SgmlReader.runtimeconfig.json",
+        "tools/net7.0/SgmlReaderDll.dll",
+        "tools/netcoreapp3.1/SgmlReader.dll",
+        "tools/netcoreapp3.1/SgmlReader.exe",
+        "tools/netcoreapp3.1/SgmlReader.pdb",
+        "tools/netcoreapp3.1/SgmlReader.runtimeconfig.json",
+        "tools/netcoreapp3.1/SgmlReaderDll.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.Xml.SgmlReader >= 1.8.30"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alesf\\.nuget\\packages\\": {},
+    "D:\\Instalados\\VS2022\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alesf\\source\\repos\\Visuales\\Visuales\\Visuales.csproj",
+      "projectName": "Visuales",
+      "projectPath": "C:\\Users\\alesf\\source\\repos\\Visuales\\Visuales\\Visuales.csproj",
+      "packagesPath": "C:\\Users\\alesf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alesf\\source\\repos\\Visuales\\Visuales\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Instalados\\VS2022\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\alesf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\alesf\\.nuget\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.Xml.SgmlReader": {
+            "target": "Package",
+            "version": "[1.8.30, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

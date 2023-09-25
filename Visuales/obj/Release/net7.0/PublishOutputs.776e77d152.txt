@@ -1,0 +1,3 @@
+C:\Users\alesf\source\repos\Visuales\Visuales\bin\Release\net7.0\publish\Visuales.dll
+C:\Users\alesf\source\repos\Visuales\Visuales\bin\Release\net7.0\publish\Visuales.deps.json
+C:\Users\alesf\source\repos\Visuales\Visuales\bin\Release\net7.0\publish\Visuales.pdb
